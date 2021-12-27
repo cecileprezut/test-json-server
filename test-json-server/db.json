@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Patateuse",
+            "description": "La patateuse du siècle.",
+            "price": "50000",
+            "pictures": [
+                "https://restaudepot.fr/1529-large_default/eplucheuse-patateuse-8kg.jpg",
+                "https://restaudepot.fr/1532-large_default/eplucheuse-patateuse-8kg.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Pétrin",
+            "description": "Le pétrin du siècle.",
+            "price": "100000",
+            "pictures": [
+                "http://www.lafoiredupro.com/petrin-spirale-boulangerie-bongard-1211.jpg",
+                "https://www.caplainmachines.com/wp-content/uploads/2021/04/PETRIN-PE60MC-TR-1-768x768.jpg"
+            ]
+        }
+    ]
+}
