@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "Patateuse",
-            "description": "La patateuse du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 50000,
             "pictures": [
                 "https://restaudepot.fr/1529-large_default/eplucheuse-patateuse-8kg.jpg",
@@ -15,7 +15,7 @@
         {
             "id": 2,
             "title": "Pétrin",
-            "description": "Le pétrin du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 100000,
             "pictures": [
                 "http://www.lafoiredupro.com/petrin-spirale-boulangerie-bongard-1211.jpg",
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "title": "Lave-verres",
-            "description": "Le lave-verres du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 80000,
             "pictures": [
                 "https://www.restoconcept.com/lave-verres-400x400-combisteel-1197321.jpg",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "title": "Plonge",
-            "description": "La plonge du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 60000,
             "pictures": [
                 "https://kvt-occasions.fr/wp-content/uploads/2015/03/928-plonge-inox-avec-emp-lave-vaisselle-1-1.jpg",
@@ -51,7 +51,7 @@
         {
             "id": 5,
             "title": "Trancheuse à pain",
-            "description": "La trancheuse à pain du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 30000,
             "pictures": [
                 "https://kvt-occasions.fr/wp-content/uploads/2015/12/1217-trancheuse-picomatic-2.jpg",
@@ -63,7 +63,7 @@
         {
             "id": 6,
             "title": "Plaques",
-            "description": "Les plaques du siècle.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce arcu justo, porta non neque ut, feugiat pulvinar est. Vivamus iaculis congue tincidunt. In quis commodo.",
             "price": 2500,
             "pictures": [
                 "https://kvt-occasions.fr/wp-content/uploads/2017/01/plaques-magasin1-1024x1024.png",
